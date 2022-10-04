@@ -110,4 +110,4 @@ public class UserRegistration {
 			System.out.println(" " + input + " is Invalid");
 	}
 
-}
+}}
